@@ -10,3 +10,19 @@ Get a head start before the JUnit 5.0 GA release rolls out during Q3 2017.
 This tutorial covers the JUnit Jupiter M4 release along with Spring Boot 1.5 (Spring Framework 4.3)
 
 This Tutorial is associated with Blog Post http://mvpjava.com/spring-boot-junit5/
+
+=====================================================
+
+Subscribe to MVP Java ...
+
+https://www.youtube.com/c/MVPJava?sub_confirmation=1
+
+Follow me ...
+
+Website  : http://www.mvpjava.com
+
+Facebook : https://www.facebook.com/mvpjava
+
+Twitter  : https://twitter.com/mvpjava
+
+DockerHub: https://hub.docker.com/?namespace=mvpjava
